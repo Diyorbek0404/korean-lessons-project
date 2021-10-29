@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Login.css"
 import {Link} from "react-router-dom"
-import rasmLogin from "../../components/rasm.png"
+import rasmLogin from "../../components/Lib/png/rasm.png"
 
 const Login = () => {
     return (
